@@ -1,0 +1,2 @@
+alias,csv_path,osm_path,x_origin,y_origin
+taf000,./src/loader/test/data/taf/vehicle_tracks_000.csv,./src/computation/test/data/K733/K733_fix.osm,49.005306,8.4374089

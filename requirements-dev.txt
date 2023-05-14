@@ -1,0 +1,2 @@
+-r src/computation/requirements-dev.txt
+-r src/loader/requirements.txt

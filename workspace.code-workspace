@@ -1,0 +1,43 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "python.formatting.blackArgs": [
+      "--line-length",
+      "100"
+    ],
+    "editor.formatOnType": true,
+    "python.linting.flake8Enabled": true,
+    "python.formatting.provider": "black",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "python.linting.flake8Args": [
+      "--max-line-length",
+      "100",
+      "--extend-ignore=E501",
+      "--select",
+      "C,E,F,W,B,B950"
+    ],
+    "cSpell.words": [
+      "devel",
+      "epath",
+      "euclidic",
+      "graphml",
+      "igraph",
+      "Lanelet",
+      "mises",
+      "nrows",
+      "pdata",
+      "pydot",
+      "pygame",
+      "pygraphviz",
+      "pyplot",
+      "PYTHONPATH",
+      "pyvis",
+      "tolist"
+    ]
+  }
+}
